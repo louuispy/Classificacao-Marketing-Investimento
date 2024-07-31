@@ -20,7 +20,6 @@ Feito isso, fazemos uma leitura da base de dados, e logo em seguida visualizamos
 ````python
 dados = pd.read_csv('datasets/marketing_investimento.csv')
 dados.head()
-
 ````
 
 Após isso, fazemos uma análise de dados inicial acerca do dataset, e logo em seguida, fazemos uma análise mais aprofundada, visualizando os dados por meio de gráficos, utilizando a biblioteca Plotly. 
