@@ -186,4 +186,4 @@ Ao final, obtivemos uma classificação de [1], indicando que o cliente irá ade
 
 ----
 
-E esse foi o projeto gente, espero que tenham gostado! ^^
+E esse foi o projeto gente, espero que tenham gostado! 😊
