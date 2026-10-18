@@ -1,6 +1,7 @@
 # Classificacao-Marketing-Investimento
 
 Venho aqui compartilhar com vocês um projeto que eu fiz recentemente, que consiste basicamente em uma análise exploratória de um dataset com dados sobre clientes de uma empresa e a criação de um algoritmo de Machine Learning para prever se o cliente irá aderir ao investimento proposto por uma empresa. É um projeto voltado para Machine Learning e Ciência de Dados, principalmente no que se refere à criação de algoritmos de classificação.
+
 ---
 
 ## Construção do projeto
